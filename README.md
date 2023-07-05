@@ -6,6 +6,10 @@
 3. Go to `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsSelfHost\Applicability`
 4. if `EnablePreviewBuilds` is set to `1` then set it to `0`
 5. Open Settings > Windows Update > Windows insider program, Once there, it should say "Get started", if it says that then you successfully opt-outed!
+  
+# Optional:
+After opt-out, you can as well leave the progam for good here
+https://www.microsoft.com/en-us/windowsinsider/leave-program
 
 # To hide the Windows insider page
 1. Follow step 1,2 (above)
