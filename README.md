@@ -1,5 +1,5 @@
 # ⚠️ Take caution upon following this tutorial, Do not just randomly delete, edit or add REGEDIT keys as it can make your system instable (bsod) ⚠️
-## ⚠️ if you have Canary, Dev, Beta or such version's installed, I RECOMMAND YOU NOT PROCEED THIS, Only do this if you opted-in and haven't installed the updates of the release channels ⚠️
+## ⚠️ if you have Canary, Dev, Beta or such version's installed, I RECOMMEND YOU NOT PROCEED THIS, Only do this if you opted-in and haven't installed the updates of the release channels ⚠️
 ### OS TESTED: Microsoft Windows 11 (On Real Hardware)
 # Steps
 1. Win+R or type "Run" (without the quotes)
