@@ -1,5 +1,5 @@
 # ⚠️ Take caution upon following this tutorial, Do not just randomly delete, edit or add REGEDIT keys as it can make your system instable (bsod) ⚠️
-### OS TESTED: Microsoft Windows 11 (On Real Hardware)
+### OS TESTED: Microsoft Windows 11 Version	10.0.22621 Build 22621 (On Real Hardware)
 # Steps
 1. Win+R or type "Run" (without the quotes)
 2. Open "regedit" (enter regedit in the textbox)
