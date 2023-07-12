@@ -21,3 +21,9 @@ https://www.microsoft.com/en-us/windowsinsider/leave-program
 # Note:
 Whenever there is a update in windows update ![image](https://github.com/aduud21/How-to-Opt-out-of-windows-insider-program-with-regedit/assets/74877817/33f01d07-77bd-4316-abc6-f093d1772a43)
 You should definitely install the update, BSOD may appear green and say your in insider build but if you haven't installed it on your machine, it's a lie.
+
+BSOD SETTINGS ARE LOCATED IN Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\CrashControl
+
+![bsod location](https://github.com/aduud21/How-to-Opt-out-of-windows-insider-program-with-regedit/assets/74877817/2ab53268-dccf-4f1b-853a-f1e74cd8d77a)
+
+
