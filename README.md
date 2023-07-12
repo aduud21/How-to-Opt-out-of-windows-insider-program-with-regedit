@@ -17,3 +17,7 @@ https://www.microsoft.com/en-us/windowsinsider/leave-program
 3. Create a new `DWORD (32-bit) value`
 4. Name the DWORD `HideInsiderPage`
 5. Change the value from `0` to `1`
+
+# Note:
+Whenever there is a update in windows update ![image](https://github.com/aduud21/How-to-Opt-out-of-windows-insider-program-with-regedit/assets/74877817/33f01d07-77bd-4316-abc6-f093d1772a43)
+You should definitely install the update, BSOD may appear green and say your in insider build but if you haven't installed it on your machine, it's a lie.
